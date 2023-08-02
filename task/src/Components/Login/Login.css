@@ -1,0 +1,9 @@
+.form {
+  height: 300px;
+  width: 300px;
+  border: 1px solid #000;
+  border-radius: 0.4rem;
+  margin-top: 10rem;
+  margin-left: 20rem;
+  margin-right: 10rem;
+}
